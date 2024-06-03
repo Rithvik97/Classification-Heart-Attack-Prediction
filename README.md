@@ -91,8 +91,6 @@ Random Forest
 
 Support Vector Machine
 
-K-Nearest Neighbors
-
 Each model is evaluated based on its accuracy, precision, recall, and F1-score.
 
 ## Results
